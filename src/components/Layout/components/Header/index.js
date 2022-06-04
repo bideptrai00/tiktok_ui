@@ -134,7 +134,7 @@ function Header() {
                         {currentUser ? (
                             <Image
                                 className={cx('user-avatar')}
-                                src="https://www.facebook.com/photo/?fbid=1907822252735382&set=a.310644589119831"
+                                src="https://scontent.fhan5-6.fna.fbcdn.net/v/t39.30808-6/278842587_1907822246068716_7477726634201262730_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oBvaJK6f4LAAX8hU4vh&_nc_ht=scontent.fhan5-6.fna&oh=00_AT8P0WECwK5f-DbvIYNBjpyCFgvNSnK5nShSeR67Ipf3tg&oe=629F3905"
                                 alt="Nguyen Van A"
                             />
                         ) : (
